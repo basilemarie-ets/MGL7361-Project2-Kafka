@@ -1,0 +1,28 @@
+{
+  "name": "kafka-orders",
+  "version": "1.0.0",
+  "description": "Concevoir et développer une preuve de concept d'une application distribuée basée sur une architecture orientée événements utilisant Apache Kafka.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basilemarie-ets/MGL7361-Project2-Kafka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/basilemarie-ets/MGL7361-Project2-Kafka/issues"
+  },
+  "homepage": "https://github.com/basilemarie-ets/MGL7361-Project2-Kafka#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "kafkajs": "^2.2.4"
+  }
+}
